@@ -2,11 +2,6 @@
 programa
 {
 
-	//2.	Um dado é lançado 10 vezes e o valor correspondente é anotado. 
-	//faça um programa que gere um vetor com os lançamentos, escreva esse vetor. 
-	//A seguir determine e imprima a média aritmética dos lançamentos, contabilize e apresente 
-	//também quantas foram as ocorrências da maior pontuação.
-	
 	inclua biblioteca Util --> util
 	
 	funcao inicio(){
